@@ -1,4 +1,4 @@
-# BeepTimerWinForms
+# Beep Timer WinForms
 
 A minimal **WinForms** tray-icon interval beep timer. Sits silent in your tray, beeps every N seconds, useful for everything from pomodoro-style work intervals to drilling a habit.
 
